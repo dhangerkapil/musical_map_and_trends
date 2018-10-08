@@ -20,13 +20,14 @@ II. Emotional influences and lyrical content analysis
 * [Flask](http://flask.pocoo.org/docs/0.12/quickstart/) and [Flask-PyMongo](https://flask-pymongo.readthedocs.io/en/latest/)
 * [Leaflet.js](http://leafletjs.com/)
 * [D3.js](http://d3js.org)
-* [Watson Personality Insights API](https://www.ibm.com/watson/developercloud/personality-insights/api/v3)
-* [Splinter](https://splinter.readthedocs.io/en/latest/)
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [LyricWiki](http://lyrics.wikia.com)
-* [Wordcloud Library](http://amueller.github.io/word_cloud/)
 * Pandas
 * Numpy
 * HTML,CSS,JavaScript
 * MongoDB
+* [Splinter](https://splinter.readthedocs.io/en/latest/)
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Wordcloud Library](http://amueller.github.io/word_cloud/)
+* [Watson Personality Insights API](https://www.ibm.com/watson/developercloud/personality-insights/api/v3)
+
+
 
