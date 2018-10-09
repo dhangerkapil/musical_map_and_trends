@@ -12,7 +12,7 @@ I. A geographical examination of the musical preferences across US cities
 ![Map](readmeimg/image.png)
 
 II. Emotional influences and lyrical content analysis 
-![bubble_plot](readmeimg/bubble.png)
+
 
 ### Technologies Used
 
